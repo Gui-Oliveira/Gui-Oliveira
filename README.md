@@ -3,7 +3,7 @@
 
 - 📖👨‍💻 Atualmente estudando **Analise e Desenvolvimento de Sistemas na faculade Impacta.**
 
-- ☕🅰 Foco em **Java e AngularJS**
+- ☕🅰 Foco em **Java e Angular**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
